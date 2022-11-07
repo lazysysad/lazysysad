@@ -1,8 +1,17 @@
-- 👋 Hi, I’m @lazysysad
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+My mission is to create easy-to-understand, straight-forward, and quick Linux related tutorials, guides, and how to videos.
+
+SUBSCRIBE - youtube.com/@lazysysad
+
+Most of my videos are for Linux system administrators (beginners to advanced) or anyone needing to deploy or setup something on Linux systems.
+
+Sometimes there will also be Windows videos.
+
+If you are a beginner and want to learn about Linux, my channel will definitely help you.
+
+I hope you learn something from my videos!
+
+GIVE SUPPORT - patreon.com/lazysysad
+BUY ME A COFFEE - buymeacoffee.com/lazysysad
 
 <!---
 lazysysad/lazysysad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
